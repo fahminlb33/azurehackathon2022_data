@@ -8,6 +8,10 @@ You can recreate this virtual environment using `conda` or `mamba` using the `re
 
 At the time of this readme writing, the model has the accuracy of 70% using Gradient Boosting algorithm from `scikit-learn` library.
 
+Video: still in progress
+Presentation: https://docs.google.com/presentation/d/1PYp3iUQk7AS_qXICWVH6bCzVSjrARw7D/edit?usp=sharing&ouid=101893075820394963212&rtpof=true&sd=true
+Demo: http://evangelion01.kodesiana.com/
+
 Links to related repo:
 
 - [Backend](https://github.com/fahminlb33/azurehackathon2022_backend)
