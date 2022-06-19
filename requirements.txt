@@ -1,0 +1,8 @@
+azureml==0.2.7
+azureml_core==1.42.0.post1
+Faker==8.8.1
+mlflow==1.26.1
+numpy==1.22.3
+pandas==1.4.2
+scikit_learn==1.0.0
+joblib==1.1.0
